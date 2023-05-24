@@ -70,7 +70,7 @@ class Screen_2 extends StatelessWidget {
                   width: 300,
                   height: 288,
                   decoration: BoxDecoration(
-                    color: Colors.grey[200],
+                    color: Colors.grey[100],
                     borderRadius :BorderRadius.circular(48)
                   )
                 ),
@@ -79,7 +79,7 @@ class Screen_2 extends StatelessWidget {
                   width: 330,
                   height: 288,
                   decoration: BoxDecoration(
-                    color: Colors.grey[300],
+                    color: Colors.grey[200],
                     borderRadius :BorderRadius.circular(48)
                   )
                 ),
