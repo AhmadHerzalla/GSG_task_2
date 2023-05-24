@@ -110,7 +110,7 @@ class Screen_2 extends StatelessWidget {
                        color: Color.fromARGB(255, 53, 51, 139),
                        borderRadius:BorderRadius.circular(16)
                 ),
-                child: const Icon(Icons.save_as_outlined,color: Colors.grey,)
+                child: const Icon(Icons.bookmark_outline,color: Colors.grey,)
 
                    )
                       ],
